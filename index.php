@@ -72,7 +72,7 @@ $weekarray = array(
 <html>
 <head>
 <title>PHP Calendar</title>
-<link type="text/css" rel="stylesheet" href="css/style.css" />
+<link type="text/css" rel="stylesheet" href="style.css" />
 </head>
 <body>
 <table class="timetable"> 

@@ -1,0 +1,20 @@
+.timetable {
+	width:100%;
+}
+
+.timeslot {
+	text-align: center;
+}
+
+.timetable tr td{
+	padding: 5px;
+	border: #000 solid 1px;
+}
+
+.dayheader {
+	text-align: center;
+}
+
+.timecol {
+	text-align: right;
+}
